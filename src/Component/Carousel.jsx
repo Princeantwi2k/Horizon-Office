@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import Pic2 from "../image/alo.jpg";
-import Pic3 from "../image/y.jpg";
-import Pic4 from "../image/yp.jpg";
+import Pic2 from "../image/img1.jpg";
+import Pic3 from "../image/img4.jpg";
+import Pic4 from "../image/img5.jpg";
 
 class Carousel extends Component {
   render() {
