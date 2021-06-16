@@ -1,0 +1,37 @@
+.one {
+  background-color: lightblue;
+}
+.home {
+  background-color: #af2f2f;
+  border-color: none;
+  border-radius: 0px;
+  margin-bottom: 0px;
+  background-image: cover;
+}
+.navbar-home .navbar-nav > li > a {
+  color: #fff;
+}
+.dede {
+  width: 100%;
+}
+a {
+  color: #fff;
+  text-decoration: none;
+}
+.carousel-content {
+  height: 500px;
+}
+.about-pizza {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+.pizza-types {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+.footer {
+  background-color: #af2f2f;
+  color: white;
+  padding-top: 2rem;
+  margin-bottom: 2rem;
+}
